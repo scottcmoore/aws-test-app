@@ -1,5 +1,5 @@
 <?php
-
-echo "Hello, " . $_GET["name"] . "!";
+echo "<h1>An example application</h1>";
+echo "<p>Hello, " . $_GET["name"] . "!</p>";
 
 ?>
